@@ -43,7 +43,7 @@ function teleMsg(msg) {
     });
 
     let message = `
-✅ 签到于 ${now}
+✅ 朝花西施签到于 ${now}
 The status code: ${response.statusCode}.
 The requested URL: ${response.requestUrl}.
 The redirected URL: ${response.redirectUrls}.
